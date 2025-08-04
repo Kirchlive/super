@@ -7,7 +7,7 @@
 # Documentation
 *.md @documentation-team
 /docs/ @documentation-team
-main_documentation/README.md @project-leads @documentation-team
+README.md @project-leads @documentation-team
 
 # Architecture and Planning
 planning_documents/ARCHITECTURE.md @architects @senior-engineers

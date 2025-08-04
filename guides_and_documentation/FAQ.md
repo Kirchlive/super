@@ -290,7 +290,7 @@ npm run dev -- --debug
 
 ### Documentation
 
-- **Getting Started**: [README.md](./README.md)
+- **Getting Started**: [README.md](../README.md)
 - **Plan Comparison**: [PLAN-USAGE-GUIDE.md](../guides_and_documentation/PLAN-USAGE-GUIDE.md)
 - **Architecture Details**: Individual plan files
 - **Contributing**: [CONTRIBUTING.md](../guides_and_documentation/CONTRIBUTING.md)

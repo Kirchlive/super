@@ -82,7 +82,7 @@ If you need to manually update links, here are the new patterns:
 ./PLAN-USAGE-GUIDE.md → ./guides_and_documentation/PLAN-USAGE-GUIDE.md
 ./API-SPECIFICATIONS/ → ./api_specifications/
 ./EXAMPLES/ → ./examples/
-./README.md → ./main_documentation/README.md
+./main_documentation/README.md → ./README.md (moved to root)
 ```
 
 ### Relative Paths
