@@ -291,9 +291,9 @@ npm run dev -- --debug
 ### Documentation
 
 - **Getting Started**: [README.md](./README.md)
-- **Plan Comparison**: [PLAN-USAGE-GUIDE.md](./PLAN-USAGE-GUIDE.md)
+- **Plan Comparison**: [PLAN-USAGE-GUIDE.md](../guides_and_documentation/PLAN-USAGE-GUIDE.md)
 - **Architecture Details**: Individual plan files
-- **Contributing**: [CONTRIBUTING.md](./CONTRIBUTING.md)
+- **Contributing**: [CONTRIBUTING.md](../guides_and_documentation/CONTRIBUTING.md)
 
 ### Code Examples
 
@@ -378,7 +378,7 @@ Any other context about the feature request.
 - GitHub Issues
 
 **For security issues**:
-- See [SECURITY.md](./SECURITY.md) for security reporting
+- See [SECURITY.md](../guides_and_documentation/SECURITY.md) for security reporting
 
 **For general discussion**:
 - GitHub Discussions

@@ -258,12 +258,12 @@ The multi-approach strategy requires:
 
 ## 📚 References
 
-- [PLAN-USAGE-GUIDE.md](./PLAN-USAGE-GUIDE.md) - Comprehensive plan comparison and selection guide
-- [ARCHITECTURE.md](./ARCHITECTURE.md) - Plugin Ecosystem Architecture (Plan 1)
-- [INTEGRATION.md](./INTEGRATION.md) - SuperClaude Integration (Plan 2)
-- [EVENTDRIVEN.md](./EVENTDRIVEN.md) - MCP Bridge + Plugin + EDA (Plan 3)
-- [EDA.md](./EDA.md) - MCP Plugin EDA Architecture (Plan 4)
-- [IMPLEMENTATION.md](./IMPLEMENTATION.md) - SuperClaude Implementation (Plan 5)
+- [PLAN-USAGE-GUIDE.md](../guides_and_documentation/PLAN-USAGE-GUIDE.md) - Comprehensive plan comparison and selection guide
+- [ARCHITECTURE.md](../planning_documents/ARCHITECTURE.md) - Plugin Ecosystem Architecture (Plan 1)
+- [INTEGRATION.md](../planning_documents/INTEGRATION.md) - SuperClaude Integration (Plan 2)
+- [EVENTDRIVEN.md](../planning_documents/EVENTDRIVEN.md) - MCP Bridge + Plugin + EDA (Plan 3)
+- [EDA.md](../planning_documents/EDA.md) - MCP Plugin EDA Architecture (Plan 4)
+- [IMPLEMENTATION.md](../planning_documents/IMPLEMENTATION.md) - SuperClaude Implementation (Plan 5)
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/)
 - [HashiCorp Plugin System](https://github.com/hashicorp/go-plugin)
 - [OpenCode Issue #753](https://github.com/sst/opencode/issues/753) - Community Plugin Request

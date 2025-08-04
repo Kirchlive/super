@@ -111,9 +111,9 @@ These files contain references that need to be updated:
 
 ### Before:
 ```markdown
-[ARCHITECTURE.md](./ARCHITECTURE.md)
-[PLAN-USAGE-GUIDE.md](./PLAN-USAGE-GUIDE.md)
-[API-SPECIFICATIONS/](./API-SPECIFICATIONS/)
+[ARCHITECTURE.md](./planning_documents/ARCHITECTURE.md)
+[PLAN-USAGE-GUIDE.md](./guides_and_documentation/PLAN-USAGE-GUIDE.md)
+[API-SPECIFICATIONS/](./api_specifications/)
 ```
 
 ### After:

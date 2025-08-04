@@ -14,13 +14,13 @@ We've developed **5 distinct integration strategies**, each optimized for differ
 
 | Plan | Timeline | Complexity | Best For |
 |------|----------|------------|----------|
-| [INTEGRATION.md](./INTEGRATION.md) | 10 days | Medium | Rapid MVP deployment |
-| [IMPLEMENTATION.md](./IMPLEMENTATION.md) | 6 weeks | Medium-High | Full-featured integration |
-| [EDA.md](./EDA.md) | 8 weeks | High | Production-ready plugins |
-| [ARCHITECTURE.md](./ARCHITECTURE.md) | 8-10 weeks | Very High | Community ecosystem |
-| [EVENTDRIVEN.md](./EVENTDRIVEN.md) | 4-8 months | Very High | Enterprise architecture |
+| [INTEGRATION.md](./planning_documents/INTEGRATION.md) | 10 days | Medium | Rapid MVP deployment |
+| [IMPLEMENTATION.md](./planning_documents/IMPLEMENTATION.md) | 6 weeks | Medium-High | Full-featured integration |
+| [EDA.md](./planning_documents/EDA.md) | 8 weeks | High | Production-ready plugins |
+| [ARCHITECTURE.md](./planning_documents/ARCHITECTURE.md) | 8-10 weeks | Very High | Community ecosystem |
+| [EVENTDRIVEN.md](./planning_documents/EVENTDRIVEN.md) | 4-8 months | Very High | Enterprise architecture |
 
-**➡️ Start here:** [PLAN-USAGE-GUIDE.md](./PLAN-USAGE-GUIDE.md) - Comprehensive comparison and decision framework
+**➡️ Start here:** [PLAN-USAGE-GUIDE.md](./guides_and_documentation/PLAN-USAGE-GUIDE.md) - Comprehensive comparison and decision framework
 
 ## 🏗️ Project Structure
 
@@ -55,20 +55,20 @@ We've developed **5 distinct integration strategies**, each optimized for differ
 ## 🚦 Quick Start
 
 ### For Decision Makers
-1. Read [PLAN-USAGE-GUIDE.md](./PLAN-USAGE-GUIDE.md) to understand options
-2. Review [DECISION-LOG.md](./DECISION-LOG.md) for architectural rationale
-3. Check [IMPLEMENTATION-ROADMAP.md](./IMPLEMENTATION-ROADMAP.md) for timelines
+1. Read [PLAN-USAGE-GUIDE.md](./guides_and_documentation/PLAN-USAGE-GUIDE.md) to understand options
+2. Review [DECISION-LOG.md](./guides_and_documentation/DECISION-LOG.md) for architectural rationale
+3. Check [IMPLEMENTATION-ROADMAP.md](./guides_and_documentation/IMPLEMENTATION-ROADMAP.md) for timelines
 
 ### For Developers
-1. Choose your integration approach from [PLAN-USAGE-GUIDE.md](./PLAN-USAGE-GUIDE.md)
-2. Review [TECHNICAL-GLOSSARY.md](./TECHNICAL-GLOSSARY.md) for key concepts
+1. Choose your integration approach from [PLAN-USAGE-GUIDE.md](./guides_and_documentation/PLAN-USAGE-GUIDE.md)
+2. Review [TECHNICAL-GLOSSARY.md](./guides_and_documentation/TECHNICAL-GLOSSARY.md) for key concepts
 3. Follow the selected plan's implementation guide
-4. Check [EXAMPLES/](./EXAMPLES/) for reference implementations
+4. Check [EXAMPLES/](./examples/) for reference implementations
 
 ### For Contributors
-1. Read [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines
-2. Review [TECHNOLOGY-STACK.md](./TECHNOLOGY-STACK.md) for tech details
-3. Check [SECURITY.md](./SECURITY.md) for security requirements
+1. Read [CONTRIBUTING.md](./guides_and_documentation/CONTRIBUTING.md) for guidelines
+2. Review [TECHNOLOGY-STACK.md](./guides_and_documentation/TECHNOLOGY-STACK.md) for tech details
+3. Check [SECURITY.md](./guides_and_documentation/SECURITY.md) for security requirements
 
 ## 🎯 Key Features Across All Plans
 
@@ -94,27 +94,27 @@ We've developed **5 distinct integration strategies**, each optimized for differ
 - **Event Systems**: NATS JetStream, Kafka
 - **Tools**: HashiCorp go-plugin, Docker, OpenTelemetry
 
-See [TECHNOLOGY-STACK.md](./TECHNOLOGY-STACK.md) for detailed information.
+See [TECHNOLOGY-STACK.md](./guides_and_documentation/TECHNOLOGY-STACK.md) for detailed information.
 
 ## 🤝 Contributing
 
 We welcome contributions! Please see:
-- [CONTRIBUTING.md](./CONTRIBUTING.md) - Contribution guidelines
-- [SECURITY.md](./SECURITY.md) - Security policies
-- [FAQ.md](./FAQ.md) - Common questions
+- [CONTRIBUTING.md](./guides_and_documentation/CONTRIBUTING.md) - Contribution guidelines
+- [SECURITY.md](./guides_and_documentation/SECURITY.md) - Security policies
+- [FAQ.md](./guides_and_documentation/FAQ.md) - Common questions
 
 ## 📚 Additional Resources
 
-- [Technical Glossary](./TECHNICAL-GLOSSARY.md) - Understand the terminology
-- [API Specifications](./API-SPECIFICATIONS/) - Detailed API docs
-- [Migration Guide](./MIGRATION-GUIDE.md) - Moving between plans
-- [Monitoring Guide](./MONITORING.md) - Observability setup
+- [Technical Glossary](./guides_and_documentation/TECHNICAL-GLOSSARY.md) - Understand the terminology
+- [API Specifications](./api_specifications/) - Detailed API docs
+- [Migration Guide](./guides_and_documentation/MIGRATION-GUIDE.md) - Moving between plans
+- [Monitoring Guide](./guides_and_documentation/MONITORING.md) - Observability setup
 
 ## 📞 Contact & Support
 
 - **Issues**: [GitHub Issues](https://github.com/Kirchlive/super/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Kirchlive/super/discussions)
-- **Security**: See [SECURITY.md](./SECURITY.md)
+- **Security**: See [SECURITY.md](./guides_and_documentation/SECURITY.md)
 
 ## 📄 License
 

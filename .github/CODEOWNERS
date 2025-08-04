@@ -7,31 +7,31 @@
 # Documentation
 *.md @documentation-team
 /docs/ @documentation-team
-README.md @project-leads @documentation-team
+main_documentation/README.md @project-leads @documentation-team
 
 # Architecture and Planning
-ARCHITECTURE.md @architects @senior-engineers
-INTEGRATION.md @integration-team
-IMPLEMENTATION.md @implementation-team
-EDA.md @architects @event-driven-team
-EVENTDRIVEN.md @architects @enterprise-team
+planning_documents/ARCHITECTURE.md @architects @senior-engineers
+planning_documents/INTEGRATION.md @integration-team
+planning_documents/IMPLEMENTATION.md @implementation-team
+planning_documents/EDA.md @architects @event-driven-team
+planning_documents/EVENTDRIVEN.md @architects @enterprise-team
 
 # Technical Documentation
 TECHNICAL-GLOSSARY.md @documentation-team @senior-engineers
 TECHNOLOGY-STACK.md @devops-team @senior-engineers
-SECURITY.md @security-team @architects
+guides_and_documentation/SECURITY.md @security-team @architects
 
 # API Specifications
-/API-SPECIFICATIONS/ @api-team @architects
-/API-SPECIFICATIONS/mcp-api.md @mcp-team @api-team
-/API-SPECIFICATIONS/plugin-api.md @plugin-team @api-team
-/API-SPECIFICATIONS/event-api.md @event-driven-team @api-team
+/api_specifications/ @api-team @architects
+/api_specifications/mcp-api.md @mcp-team @api-team
+/api_specifications/plugin-api.md @plugin-team @api-team
+/api_specifications/event-api.md @event-driven-team @api-team
 
 # Examples
-/EXAMPLES/ @developer-experience-team
-/EXAMPLES/simple-plugin/ @plugin-team
-/EXAMPLES/mcp-integration/ @mcp-team
-/EXAMPLES/event-handler/ @event-driven-team
+/examples/ @developer-experience-team
+/examples/simple-plugin/ @plugin-team
+/examples/mcp-integration/ @mcp-team
+/examples/event-handler/ @event-driven-team
 
 # GitHub Configuration
 /.github/ @devops-team @project-leads
@@ -39,10 +39,10 @@ SECURITY.md @security-team @architects
 /.github/ISSUE_TEMPLATE/ @project-leads @community-team
 
 # Critical Files
-CONTRIBUTING.md @project-leads @community-team
-SECURITY.md @security-team @project-leads
-CLAUDE.md @ai-team @project-leads
+guides_and_documentation/CONTRIBUTING.md @project-leads @community-team
+guides_and_documentation/SECURITY.md @security-team @project-leads
+main_documentation/CLAUDE.md @ai-team @project-leads
 
 # Migration and Testing
-MIGRATION-GUIDE.md @architects @implementation-team
-TESTING-STRATEGY.md @qa-team @senior-engineers
+guides_and_documentation/MIGRATION-GUIDE.md @architects @implementation-team
+guides_and_documentation/TESTING-STRATEGY.md @qa-team @senior-engineers

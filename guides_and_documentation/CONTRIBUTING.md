@@ -608,13 +608,13 @@ make test
 - **Documentation**: Check existing documentation first
 - **Issues**: Search existing issues before creating new ones
 - **Discussions**: Use GitHub Discussions for questions and ideas
-- **FAQ**: Check [FAQ.md](./FAQ.md) for common questions
+- **FAQ**: Check [FAQ.md](../guides_and_documentation/FAQ.md) for common questions
 
 ### Contact
 
 - **GitHub Issues**: For bugs and feature requests
 - **GitHub Discussions**: For questions and community discussion
-- **Security Issues**: See [SECURITY.md](./SECURITY.md) for reporting security vulnerabilities
+- **Security Issues**: See [SECURITY.md](../guides_and_documentation/SECURITY.md) for reporting security vulnerabilities
 
 ## 📄 License
 

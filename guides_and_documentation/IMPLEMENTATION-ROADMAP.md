@@ -510,8 +510,8 @@ Plan 3 - Enterprise:
 
 ## 📚 Additional Resources
 
-- [DECISION-LOG.md](./DECISION-LOG.md) - Architectural decision records
-- [PLAN-USAGE-GUIDE.md](./PLAN-USAGE-GUIDE.md) - Plan selection framework
+- [DECISION-LOG.md](../guides_and_documentation/DECISION-LOG.md) - Architectural decision records
+- [PLAN-USAGE-GUIDE.md](../guides_and_documentation/PLAN-USAGE-GUIDE.md) - Plan selection framework
 - Individual plan documentation (ARCHITECTURE.md, INTEGRATION.md, etc.)
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/)
 - [HashiCorp Plugin System](https://github.com/hashicorp/go-plugin)
