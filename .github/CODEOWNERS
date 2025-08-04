@@ -1,0 +1,48 @@
+# OpenCode-SuperClaude Integration CODEOWNERS
+# This file defines who is responsible for code review in different parts of the project
+
+# Default owners for everything in the repo
+* @opencode-team @superclaude-team
+
+# Documentation
+*.md @documentation-team
+/docs/ @documentation-team
+README.md @project-leads @documentation-team
+
+# Architecture and Planning
+ARCHITECTURE.md @architects @senior-engineers
+INTEGRATION.md @integration-team
+IMPLEMENTATION.md @implementation-team
+EDA.md @architects @event-driven-team
+EVENTDRIVEN.md @architects @enterprise-team
+
+# Technical Documentation
+TECHNICAL-GLOSSARY.md @documentation-team @senior-engineers
+TECHNOLOGY-STACK.md @devops-team @senior-engineers
+SECURITY.md @security-team @architects
+
+# API Specifications
+/API-SPECIFICATIONS/ @api-team @architects
+/API-SPECIFICATIONS/mcp-api.md @mcp-team @api-team
+/API-SPECIFICATIONS/plugin-api.md @plugin-team @api-team
+/API-SPECIFICATIONS/event-api.md @event-driven-team @api-team
+
+# Examples
+/EXAMPLES/ @developer-experience-team
+/EXAMPLES/simple-plugin/ @plugin-team
+/EXAMPLES/mcp-integration/ @mcp-team
+/EXAMPLES/event-handler/ @event-driven-team
+
+# GitHub Configuration
+/.github/ @devops-team @project-leads
+/.github/workflows/ @devops-team
+/.github/ISSUE_TEMPLATE/ @project-leads @community-team
+
+# Critical Files
+CONTRIBUTING.md @project-leads @community-team
+SECURITY.md @security-team @project-leads
+CLAUDE.md @ai-team @project-leads
+
+# Migration and Testing
+MIGRATION-GUIDE.md @architects @implementation-team
+TESTING-STRATEGY.md @qa-team @senior-engineers
